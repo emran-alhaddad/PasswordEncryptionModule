@@ -1,0 +1,32 @@
+{
+  "name": "password-encryption",
+  "version": "1.0.0",
+  "description": "This My Own Code , I Bulid it From Scratch",
+  "main": "app.js",
+  "dependencies": {
+    "ansi-regex": "^4.1.0",
+    "prompt-sync": "^4.2.0",
+    "crypto": "^1.0.1",
+    "strip-ansi": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmranCo/PasswordEncryptionModule.git"
+  },
+  "keywords": [
+    "Encryption",
+    "Decription",
+    "Validation",
+    "Password"
+  ],
+  "author": "Emran Al Haddad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmranCo/PasswordEncryptionModule/issues"
+  },
+  "homepage": "https://github.com/EmranCo/PasswordEncryptionModule#readme"
+}
